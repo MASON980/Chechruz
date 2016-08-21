@@ -3,6 +3,7 @@
 </br>
 
 A clone of T_t_i_. You have to stack the blocks to make full lines without letter the blocks stack up to the top of the screen. Not necessarily using 4 part blocks. Left/right to strafe block, up/down to rotate, space to speed up/next step.</br>
+This was made for education and what not, please don't sue.</br>
 </br>
 V1
 </br>
